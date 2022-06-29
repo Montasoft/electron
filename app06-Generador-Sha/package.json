@@ -1,0 +1,20 @@
+{
+  "name": "app06-generador-sha",
+  "version": "1.0.0",
+  "description": "aplicacion para generacion de hashes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "hashes",
+    "md5",
+    "sha-",
+    "sha256"
+  ],
+  "author": "Jorge",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.1.0"
+  }
+}

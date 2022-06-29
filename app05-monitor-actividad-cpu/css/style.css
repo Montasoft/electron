@@ -1,0 +1,16 @@
+html, body, .container-fluid{
+    height: 100px;
+    background-color: #111;
+
+
+}
+.container-fluid{
+    padding: 25px;
+}
+
+html{
+    -webkit-app-region: drag;
+    /*no captura eventos de click*/
+    
+
+}

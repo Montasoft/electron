@@ -1,0 +1,26 @@
+{
+  "name": "app08-control-portapapeles",
+  "version": "1.0.0",
+  "description": "electro, portapapeles",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electro",
+    "portapapeles",
+    "multiplataforma"
+  ],
+  "author": "Jorge",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "electron": "^18.2.0",
+    "electron-settings": "^4.0.2",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "electron-builder": "^23.0.3",
+    "electron-rebuild": "^3.2.7"
+  }
+}

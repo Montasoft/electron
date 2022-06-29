@@ -1,0 +1,21 @@
+{
+  "name": "marcadores",
+  "version": "1.0.0",
+  "description": "archivo de marcadores",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "keywords": [
+    "marcadores",
+    "favoritos",
+    "electron",
+    "escritorio",
+    "multiplataforma"
+  ],
+  "author": "Montagut",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.1"
+  }
+}

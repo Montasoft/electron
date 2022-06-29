@@ -1,0 +1,22 @@
+{
+  "name": "app04-grabarescritorio",
+  "version": "1.0.0",
+  "description": "aplicación de escritorio multiplataforma para grabar el escritorio",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "multiplataforma",
+    "electron",
+    "escritorio"
+  ],
+  "author": "Jorge Montagut",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.1.0"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.8"
+  }
+}

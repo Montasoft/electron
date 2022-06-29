@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Grabar Video App</title>
+</head>
+
+<body>
+    <br>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="page-header text-center">
+                    <h1>
+                        Grabar Escritorio App
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <video src="" id="visualizacionCaptura"></video>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <button type="button" class="btn btn-primary" id="seleccionarFuenteVideo">Seleccionar fuente</button>
+                <button type="button" class="btn btn-danger" id="grabar" disabled>Grabar</button>
+                <button type="button" class="btn btn-warning" id="detener" disabled>Detener</button>
+            </div>
+        </div>
+    </div>
+    <script src= "js/renderer.js"></script>
+</body>
+
+</html>

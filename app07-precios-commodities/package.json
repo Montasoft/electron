@@ -1,0 +1,19 @@
+{
+  "name": "app07-precios-commodities",
+  "version": "1.0.0",
+  "description": "aplicacion de escritorio para conección a api ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "commoditie"
+  ],
+  "author": "Jorge",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.2.0",
+    "papaparse": "^5.3.2"
+  }
+}

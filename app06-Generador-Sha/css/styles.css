@@ -1,0 +1,18 @@
+html, body, .container-fluid{
+    background-color: #D6DBDC;
+}
+textarea{
+    font-size: 17px;
+}
+.hash{
+    color: #575b5e;
+    font-size: 17px;
+    letter-spacing: 2px;
+    white-space: pre-wrap;
+}
+
+.header-hashing{
+    color: #575b5e;
+    font-weight: normal;
+
+}

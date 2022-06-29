@@ -1,0 +1,20 @@
+{
+  "name": "app03-lista-de-compras",
+  "version": "1.0.0",
+  "description": "aplicación de escritorio multi plataforma",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "js",
+    "css",
+    "electro",
+    "multiplataforma"
+  ],
+  "author": "Jorge Montagut",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.1.0"
+  }
+}

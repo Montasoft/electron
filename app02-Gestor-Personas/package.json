@@ -1,0 +1,22 @@
+{
+  "name": "app02-gestor-personas",
+  "version": "1.0.0",
+  "description": "gestor de personas ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "multiplataforma",
+    "aplicacion"
+  ],
+  "author": "Jorge Montagut",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  },
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}

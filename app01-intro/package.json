@@ -1,0 +1,22 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "aplicación de escritorio multiplataforma en electro",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "escritorio",
+    "multiplataforma"
+  ],
+  "author": "Jorge Montagut",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.1"
+  },
+  "dependencies": {
+    "electron-packager": "^15.4.0"
+  }
+}
